@@ -1,6 +1,8 @@
 body {
     background-color: #007bff;
     margin: 0;
+    background-image: url(img/фффффффффф.jpg);
+    background-repeat: no-repeat;
 }
 
 * {
@@ -19,7 +21,6 @@ nav a {
     outline: none;
     transition: .4s ease-in-out;
 }
-
 .topmenu {
     text-align: center;
     backface-visibility: hidden;
@@ -49,6 +50,7 @@ nav a {
 
 .topmenu li a:hover {
     color: #E6855F;
+    cursor: pointer;
 }
 
 .submenu {
@@ -90,6 +92,8 @@ nav a {
     text-align: center;
     margin: 10px 0 10px 0;
     border-top: solid slategrey;
+    background: rgba(77, 75, 75,0.7);
+    border-radius: 10px;
 }
 
 .customs-systems {
@@ -113,6 +117,8 @@ nav a {
 
 .complex-vd {
     border-top: solid slategrey;
+    background: rgba(77, 75, 75,0.7);
+    border-radius: 10px;
 }
 
 .complex-vd h3 {
@@ -133,9 +139,10 @@ nav a {
 }
 
 .make-request {
-    background-color: #0c5460;
+    background:rgba(22, 51, 27, 0.9);
     text-align: center;
     padding: 10px 0 10px 0;
+    border-radius: 10px;
 }
 
 .qweasd {
@@ -164,6 +171,8 @@ nav a {
 
 .contact {
     text-align: center;
+    background:rgba(22, 51, 27, 0.9);
+    border-radius: 10px;
 }
 
 .block-img {
@@ -181,4 +190,5 @@ nav a {
 
 .photo img, a {
     display: block;
+    color: wheat;
 }
