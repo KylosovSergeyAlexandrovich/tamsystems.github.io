@@ -35,7 +35,7 @@ body {
 }
 
 .customs-systems {
-    background-image: url(img/фффффффффф.jpg);
+    background-image: url(img/top-img.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 0 50%;
@@ -180,4 +180,17 @@ body {
 .photo img, a {
     display: block;
     color: wheat;
+}
+
+.footer-img-1 {
+    background-image: url(img/footer-img-1.jpg);
+    padding: 140px 0 0 250px;
+}
+.footer-img-2 {
+    background-image: url(img/footer-img-2.jpg);
+    padding: 140px 0 0 250px;
+}
+.footer-img-3 {
+    background-image: url(img/footer-img-3.jpg);
+    padding: 140px 0 0 250px;
 }
