@@ -68,6 +68,9 @@ body {
     padding: 5px;
     border-radius: 10px;
 }
+.block-text p{
+    font-size: 20px;
+}
 
 .left-text {
     display: table-cell;
