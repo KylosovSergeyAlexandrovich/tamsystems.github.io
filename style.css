@@ -55,6 +55,7 @@ body {
     width: 200px;
     height: 185px;
     background: rgba(77, 75, 75, 0.7);
+    border-radius: 5px;
 }
 
 .block:hover {
